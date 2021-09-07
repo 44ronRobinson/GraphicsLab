@@ -1,4 +1,4 @@
-size(600,600);
+size(100,100);
 background(255);
   line(width/12, 0, width/12, height);
   line(2*(width/12), 0, 2*(width/12), height);
